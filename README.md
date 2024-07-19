@@ -14,3 +14,4 @@ With the e-commerce site I have prepared, I designed a user-friendly interface w
 
 # Preview
 
+![ScreenRecording19 07 202422-15-52-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a6c9b8f0-7d24-4cf8-9a9d-c55f1deee65d)
